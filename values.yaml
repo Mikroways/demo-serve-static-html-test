@@ -1,0 +1,8 @@
+serve-static:
+  html: |
+    <html>
+    <body style="color: white; background-color: "orange">
+      <h1>Sitio de testing</h1>
+      Demo para KCD spain. Este es el ambiente de testing
+    </body>
+    </html>
